@@ -1,0 +1,16 @@
+D:\Users\anna.welna\RiderProjects\sppr\sppr\bin\Debug\net5.0\sppr.exe
+D:\Users\anna.welna\RiderProjects\sppr\sppr\bin\Debug\net5.0\sppr.deps.json
+D:\Users\anna.welna\RiderProjects\sppr\sppr\bin\Debug\net5.0\sppr.runtimeconfig.json
+D:\Users\anna.welna\RiderProjects\sppr\sppr\bin\Debug\net5.0\sppr.runtimeconfig.dev.json
+D:\Users\anna.welna\RiderProjects\sppr\sppr\bin\Debug\net5.0\sppr.dll
+D:\Users\anna.welna\RiderProjects\sppr\sppr\bin\Debug\net5.0\ref\sppr.dll
+D:\Users\anna.welna\RiderProjects\sppr\sppr\bin\Debug\net5.0\sppr.pdb
+D:\Users\anna.welna\RiderProjects\sppr\sppr\obj\Debug\net5.0\sppr.csproj.AssemblyReference.cache
+D:\Users\anna.welna\RiderProjects\sppr\sppr\obj\Debug\net5.0\sppr.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\anna.welna\RiderProjects\sppr\sppr\obj\Debug\net5.0\sppr.AssemblyInfoInputs.cache
+D:\Users\anna.welna\RiderProjects\sppr\sppr\obj\Debug\net5.0\sppr.AssemblyInfo.cs
+D:\Users\anna.welna\RiderProjects\sppr\sppr\obj\Debug\net5.0\sppr.csproj.CoreCompileInputs.cache
+D:\Users\anna.welna\RiderProjects\sppr\sppr\obj\Debug\net5.0\sppr.dll
+D:\Users\anna.welna\RiderProjects\sppr\sppr\obj\Debug\net5.0\ref\sppr.dll
+D:\Users\anna.welna\RiderProjects\sppr\sppr\obj\Debug\net5.0\sppr.pdb
+D:\Users\anna.welna\RiderProjects\sppr\sppr\obj\Debug\net5.0\sppr.genruntimeconfig.cache
